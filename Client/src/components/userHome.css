@@ -1,0 +1,31 @@
+#user_home{
+    background-color: rgb(216, 187, 168);
+}
+#video_container{
+    text-align: center;
+}
+#vid_btn{
+    /* isplay: inline-block; */
+    align-items: center;
+    background-color: rgb(152, 167, 121);
+}
+#chooseVid{
+    color: rgb(67, 156, 239);
+}
+table {
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 15px;
+    margin: 5px;
+    border: 5px;
+    }
+th,td{
+    padding: 10px;
+}
+.btn{
+    background-color: rgb(152, 167, 121);
+    color: black;
+    border: 2px solid black;
+}
+
